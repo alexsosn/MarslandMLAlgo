@@ -13,3 +13,9 @@ All code is available under the following license.
 > This code comes with no warranty of any kind.
 
 > Stephen Marsland, 2008, 2014
+
+
+## Disclaimer
+
+I'm not connected to [the author](http://stephenmonika.net/) of this code in any way. If you want something to be changed, or have any questions about the code, please, contact Stephen Marsland directly.
+I uploaded this code to github for my own convenience, as on the author's site it's available only as a zip archive.
