@@ -70,7 +70,7 @@ def Viterbi(pi,a,b,obs):
 
 	path[T-1] = np.argmax(delta[:,T-1])
 	for t in range(T-2,-1,-1):
-		path[t] = phi[path[t+1],t+1]
+		path[t] = phi[int(path[t+1]),t+1]
 
 	return path,delta, phi
 
